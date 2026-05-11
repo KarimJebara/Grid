@@ -9,3 +9,5 @@ e2e/_results
 playwright-report
 test-results
 WhatsApp Image*.jpeg
+docs/media/_frames
+docs/media/_raw
